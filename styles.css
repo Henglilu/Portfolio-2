@@ -1,0 +1,46 @@
+body {
+    font-family: 'Poppins', sans-serif;
+  }
+
+.nav-link {
+    color: black;
+}
+
+.custom-padding-container {
+    padding-left: 6rem !important; /* Adjust these values as needed */
+    padding-right: 6rem !important;
+  }
+
+.custom-profile-padding-container {
+    padding-left: 15rem !important; /* Adjust these values as needed */
+    padding-right: 15rem !important;
+  }
+
+.lead {
+    font-weight: 500;
+}
+
+.hello {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.name {
+    font-weight: 500;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.btn-border {
+    font-size: 12px;
+    border-radius: 2rem;
+}
+
+.profile-pic {
+    border-radius: 50%;
+}
+
+.fs-4 {
+    font-size: em; /* Adjust this value as needed */
+  }
