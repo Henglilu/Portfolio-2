@@ -26,6 +26,24 @@ body {
     text-align: center;
 }
 
+.about-pic {
+    border-radius: 2rem;
+}
+
+.icon {
+    width: 50px;  /* Set a common width */
+    height: 50px; /* Set a common height */
+    object-fit: contain; /* Ensures the aspect ratio is maintained */
+  }
+
+.icon-move {
+    margin-left: 20px; /* Adjust this value to set the desired spacing */
+  }
+
+.skill-icon {
+    gap: 10px;
+}
+
 .name {
     font-weight: 500;
     margin-top: 10px;
